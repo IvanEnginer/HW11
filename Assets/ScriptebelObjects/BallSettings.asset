@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 147af92f329082e4b8aa7978e7d2e34a, type: 3}
+  m_Name: BallSettings
+  m_EditorClassIdentifier: 
+  BallMatterials:
+  - {fileID: 2100000, guid: 41ab0fb0d59049449b5e6b85acd177f1, type: 2}
+  - {fileID: 2100000, guid: d7a0719fb2f2e4c4caea04d0c32ac484, type: 2}
+  - {fileID: 2100000, guid: d2ac31213019cbb489519eca74ccbe74, type: 2}
+  - {fileID: 2100000, guid: e17f6c30d0dafdc499f9aaa0b924e8b0, type: 2}
+  - {fileID: 2100000, guid: b63b5b9c167adf8408ffc5dde49f6780, type: 2}
+  - {fileID: 2100000, guid: 0d7880706bd66b240bdba7ddf2dfa09d, type: 2}
+  - {fileID: 2100000, guid: 1eafcd94fc1fb7c41a6c974a9d430886, type: 2}
+  - {fileID: 2100000, guid: 1792889c4c337404f93cd2a3ff04ece2, type: 2}
+  - {fileID: 2100000, guid: 59d5abc1f5c7b264bb09d1c65ddec1b4, type: 2}
+  - {fileID: 2100000, guid: 95b0e374ec3bbe94b96b60ff87f876e2, type: 2}
+  - {fileID: 2100000, guid: aeedc331ff18aa34287b25a7ac7ebe43, type: 2}
+  BallProhectionMaterials:
+  - {fileID: 2100000, guid: b3c464b5018b10549a23b17cd375a9d6, type: 2}
+  - {fileID: 2100000, guid: 32924b01d74ddcb428c49b8121b5c8ef, type: 2}
+  - {fileID: 2100000, guid: 6536137a0a45200418ba60b47a0acbd8, type: 2}
+  - {fileID: 2100000, guid: ddc7e689ea997ad4eb8d5ce41ff17ec2, type: 2}
+  - {fileID: 2100000, guid: 580a3bb53cb4ad84b8d9947315faf74c, type: 2}
+  - {fileID: 2100000, guid: 890f0f9a917c60a41b8ac8c93d59efe1, type: 2}
+  - {fileID: 2100000, guid: a8b42248c5a888a49a43dfe14853a487, type: 2}
+  - {fileID: 2100000, guid: 7b99fd5968cfcd04587ded9f55a8fead, type: 2}
+  - {fileID: 2100000, guid: 3c941d8f9cfd08247badf2b88e08d145, type: 2}
+  - {fileID: 2100000, guid: 60ac4f3faa0b2b543a153ac88f539558, type: 2}
+  - {fileID: 2100000, guid: f99715916e3af8a438a86814d418cf55, type: 2}
