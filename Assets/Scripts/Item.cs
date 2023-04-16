@@ -8,7 +8,8 @@ public enum ItemType
     Stone,
     Box,
     Dynamit,
-    Star
+    Star,
+    Shaker
 }
 
 public class Item : MonoBehaviour
